@@ -1,10 +1,10 @@
 '''
-Max Profit
+Max Profit:
     Write an efficient function that takes stock_prices and returns the best profit.
     Input:  stock_prices = [10, 7, 5, 8, 11, 9]
     Output: 6
 '''
-    
+
 def get_max_profit(stock_prices):
     
     if len(stock_prices) < 2:

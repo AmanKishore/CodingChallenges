@@ -1,5 +1,5 @@
 '''
-InPlace Shuffle
+InPlace Shuffle:
     Write a function for doing an in-place shuffle of a list
 '''
 import random

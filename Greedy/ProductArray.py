@@ -1,5 +1,5 @@
 '''
-Product Array
+Product Array:
     Write a function product_array() that takes a list of integers and returns a list of the products.
 '''
 def product_array(int_list):

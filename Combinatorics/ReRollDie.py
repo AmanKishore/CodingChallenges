@@ -17,7 +17,7 @@ def rand7():  # Simulate a 7 sided die using 5 sided die
         roll2 = randint(0, 5)
         outcome_number = (roll1-1) * 5 + (roll2-1) + 1  # Numbers between 1 and 25
 
-        if outcome_number > 21: # Re-roll
+        if outcome_number > 21: # Re-roll since out of 1-21
             continue
 
         return outcome_number % 7 + 1

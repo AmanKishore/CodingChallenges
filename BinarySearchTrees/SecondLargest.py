@@ -18,7 +18,7 @@ def find_second_largest(root):
         if root.left and not root.right:
             return find_largest(root.left)
         
-        if (root.right and not root.right.left and not root.right.right):
+        if (root.right and not root.right.left and not root.right.right): # If left subtree then this is the case
             return root.value
         
         root = root.right

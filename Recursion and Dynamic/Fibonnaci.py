@@ -14,7 +14,7 @@ def fib(n):
         memo[n] = fib(n-1) + fib(n-2) # Store the newest discovered number
     return memo[n]
 
- def fib(n):
+def fib(n):
     if n < 0:
         raise ValueError('Index was negative. No such thing as a '
                          'negative index in a series.')
@@ -26,7 +26,7 @@ def fib(n):
     prev = 1       # 1st fibonacci
 
     for _ in range(n - 1):
-        current = prev + prev_prev
+        current = prev + prev_prev # Use the previous two to calculate the current
         prev_prev = prev
         prev = current
 

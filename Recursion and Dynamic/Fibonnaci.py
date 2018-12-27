@@ -14,7 +14,7 @@ def fib(n):
         memo[n] = fib(n-1) + fib(n-2) # Store the newest discovered number
     return memo[n]
 
-def fib(n):
+def fib_bottom_up(n):
     if n < 0:
         raise ValueError('Index was negative. No such thing as a '
                          'negative index in a series.')

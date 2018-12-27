@@ -25,7 +25,7 @@ def fib_bottom_up(n):
     prev_prev = 0  # 0th fibonacci
     prev = 1       # 1st fibonacci
 
-    for _ in range(n - 1):
+    for _ in range(n - 1): # Go to two before because you already have first two included
         current = prev + prev_prev # Use the previous two to calculate the current
         prev_prev = prev
         prev = current

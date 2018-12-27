@@ -16,8 +16,7 @@ def fib(n):
 
 def fib_bottom_up(n):
     if n < 0:
-        raise ValueError('Index was negative. No such thing as a '
-                         'negative index in a series.')
+        raise ValueError('Index was negative. No such thing as a negative index in a series.')
     elif n in [0, 1]:
         return n
 

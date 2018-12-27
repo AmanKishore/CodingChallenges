@@ -6,7 +6,7 @@ String Permuatations:
 def get_permutations(string):  # Ex: string = 'abc'
     # Base case
     if len(string) <= 1: # string = 'a' adds a to set
-        return set([string])  # This returns the first character to the set
+        return set([string])  # This returns the first character to the permutation set
 
     all_but_last = string[:-1] # Stored as a local variable so different for each run through
     last_char = string[-1]
@@ -24,6 +24,6 @@ def get_permutations(string):  # Ex: string = 'abc'
                 # i = 0: 'ba'
                 # i = 1: 'ab'
             permutation = (substring[:i] + last_char + substring[i:])
-            permutations.add(permutation)
+            permutations.add(permutation) # Add each new permuation to ther permutation set
 
     return permutations  # Adds to the overall set

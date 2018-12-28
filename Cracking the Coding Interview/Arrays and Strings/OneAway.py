@@ -15,7 +15,7 @@ def one_away(s1, s2):
     i = j = 0
     foundDiff = False
     while i < len(first) and j < len(second):
-        if first[j] != second[j]
+        if first[j] != second[j]:
             if foundDiff: # Check to make sure this is the first difference found
                 return False
             foundDiff = True

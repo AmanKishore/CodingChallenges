@@ -1,6 +1,6 @@
 '''
 URLify:
-    Write a method to replace all teh spaces in a string with '%20'. The string has sufficient space to hold it
+    Write a method to replace all the spaces in a string with '%20'. The string has sufficient space to hold it
     Input:  "Mr John Smith    "
     Output: "Mr%20John%20Smith"
 '''

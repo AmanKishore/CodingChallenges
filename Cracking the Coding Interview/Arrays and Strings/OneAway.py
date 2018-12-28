@@ -6,36 +6,22 @@ One Away:
 '''
 
 def one_away(s1, s2):
-    '''Check if a string can converted to another string with a single edit'''
-    if len(s1) == len(s2):
-        return one_edit_replace(s1, s2)
-    elif len(s1) + 1 == len(s2):
-        return one_edit_insert(s1, s2)
-    elif len(s1) - 1 == len(s2):
-        return one_edit_insert(s2, s1)
-    return False
-
-
-def one_edit_replace(s1, s2):
-    edited = False
-    for c1, c2 in zip(s1, s2):
-        if c1 != c2:
-            if edited:
+    if abs(len(s1) - len(s2) > 1):
+        return False
+    if len(s1) - len(s2) < 0:
+        first, second = s1, s2
+    else:
+        first, second = s2, s1
+    i = j = 0
+    foundDiff = False
+    while i < len(first) and j < len(second):
+        if first[j] != second[j]
+            if foundDiff: # Check to make sure this is the first difference found
                 return False
-            edited = True
-    return True
-
-
-def one_edit_insert(s1, s2):
-    edited = False
-    i, j = 0, 0
-    while i < len(s1) and j < len(s2):
-        if s1[i] != s2[j]:
-            if edited:
-                return False
-            edited = True
-            j += 1
+            foundDiff = True
+            if len(first) == len(second): # If there is a replace, move the shorter pointer forward
+                i += 1
         else:
             i += 1
-            j += 1
+        j += 1
     return True

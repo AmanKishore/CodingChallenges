@@ -3,7 +3,7 @@ Sorted Matrix Search:
 
 '''
 
-MAX = 100;
+MAX = 100
 def binarySearch(mat, i, j_low, j_high, x):
    while j_low <= j_high:
        j_mid = (j_low + j_high) // 2
@@ -30,7 +30,7 @@ def sortedMatrixSearch(mat, n, m, x):
    i_high = n - 1
    j_mid = m // 2
    while ((i_low + 1) < i_high):
-       i_mid = (i_low + i_high) // 2;
+       i_mid = (i_low + i_high) // 2
   
        # element found
        if (mat[i_mid][j_mid] == x):

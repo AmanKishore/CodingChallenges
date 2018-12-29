@@ -8,7 +8,7 @@ class SetOfStacks(object):
         self.capacity = capacity
         self.stacks = []
 
-    def get_last_stack(self):
+    def get_last_stack(self): # Get stack at last index
         if not self.stacks:
             return None
         return self.stacks[-1]
@@ -17,7 +17,7 @@ class SetOfStacks(object):
         last = self.get_last_stack()
         return not last or last.is_empty()
 
-    def push(self, v):
+    def push(self, v): # Push at desired index and make a new stack if neccessary 
         last = self.get_last_stack()
         if last and not last.is_full():
             last.push(v)
@@ -26,7 +26,7 @@ class SetOfStacks(object):
             stack.push(v)
             self.stacks.append(stack)
 
-    def pop(self):
+    def pop(self): # Pop at the desired index
         last = self.get_last_stack()
         if not last:
             return None
@@ -38,7 +38,7 @@ class SetOfStacks(object):
     def pop_at(self, index):
         return self.left_shift(index, True)
 
-    def left_shift(self, index, remove_top):
+    def left_shift(self, index, remove_top): # Take from the bottom of the next stack
         stack = self.stacks[index]
         removed_item = stack.pop() if remove_top else stack.remove_bottom()
         if stack.is_empty():

@@ -10,7 +10,7 @@ def step(n):
     if n in memo:
         return memo[n]
     else:
-        memo[n] = step(n-1) + step(n-2) + step(n-3) # Store the newest discovered number
+        memo[n] = step(n-1) + step(n-2) + step(n-3) # Store the number of ways to get to this step
     return memo[n]
 
 print(step(4))

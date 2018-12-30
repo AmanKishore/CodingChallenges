@@ -7,7 +7,6 @@ memo = {0 : 1, 1 : 1, 2 : 2}
 
 def step(n):
 
-    # Compute the nth Fibonacci number
     if n in memo:
         return memo[n]
     else:

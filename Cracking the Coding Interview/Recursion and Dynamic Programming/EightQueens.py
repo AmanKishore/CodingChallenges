@@ -17,7 +17,7 @@ def helper(n, c, queens, ways):
     for r in range(n):
         position = [r, c]
         if is_valid(position, queens): # Checks to see if there are any queens in the same row or columns or diagonal
-            queens_cp = queens.copy()
+            queens_cp = queens.copy() # Makes a shallow copy so that queens and queens_cp don't point to the same memory
             queens_cp.append(position)
             helper(n, c+1, queens_cp, ways)
 

@@ -48,3 +48,15 @@ This is a repo of some of the problems that I have encountered. The code is writ
 &nbsp;|&nbsp;&nbsp;[Stack of Plates](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Stacks%20and%20Queues/StackofPlates.py)
 &nbsp;|&nbsp;&nbsp;[Three in One](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Stacks%20and%20Queues/ThreeInOne.py)
 
+
+### [Trees and Graphs](https://github.com/AmanKishore/CodingChallenges/tree/master/Cracking%20the%20Coding%20Interview/Trees%20and%20Graphs)
+&nbsp;&nbsp;&nbsp;&nbsp;[BST Sequences](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Trees%20and%20Graphs/BSTSequences.py)
+&nbsp;|&nbsp;&nbsp;[Check Subtree](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Trees%20and%20Graphs/CheckSubtree.py)
+&nbsp;|&nbsp;&nbsp;[First Common Ancestor](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Trees%20and%20Graphs/FirstCommonAncestor.py)
+&nbsp;|&nbsp;&nbsp;[Inorder Successor](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Trees%20and%20Graphs/InOrderSuccessor.py)
+&nbsp;|&nbsp;&nbsp;[List of Depths](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Trees%20and%20Graphs/ListofDepths.py)
+&nbsp;|&nbsp;&nbsp;[Minimal Tree](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Trees%20and%20Graphs/MinimalTree.py)
+&nbsp;|&nbsp;&nbsp;[Paths with Sum](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Trees%20and%20Graphs/PathswithSum.py)
+&nbsp;|&nbsp;&nbsp;[Random Node](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Trees%20and%20Graphs/RandomNode.py)
+&nbsp;|&nbsp;&nbsp;[Route Between Nodes](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Trees%20and%20Graphs/RouteBetweenNodes.py)
+&nbsp;|&nbsp;&nbsp;[Topological Sort](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Trees%20and%20Graphs/TopologicalSort.py)

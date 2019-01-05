@@ -40,5 +40,11 @@ This is a repo of some of the problems that I have encountered. The code is writ
 &nbsp;|&nbsp;&nbsp;[Partition](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Linked%20List/Partition.py)
 &nbsp;|&nbsp;&nbsp;[Remove Duplicates](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Linked%20List/RemoveDuplicates.py)
 &nbsp;|&nbsp;&nbsp;[Sum Lists](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Linked%20List/SumLists.py)
-
 &nbsp;|&nbsp;&nbsp;[Sum Lists 2](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Linked%20List/SumLists2.py)
+
+### [Stacks and Queues](https://github.com/AmanKishore/CodingChallenges/tree/master/Cracking%20the%20Coding%20Interview/Stacks%20and%20Queues)
+&nbsp;&nbsp;&nbsp;&nbsp;[Animal Shelter](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Stacks%20and%20Queues/AnimalShelter.py)
+&nbsp;|&nbsp;&nbsp;[Sort Stack](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Stacks%20and%20Queues/SortStack.py)
+&nbsp;|&nbsp;&nbsp;[Stack of Plates](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Stacks%20and%20Queues/StackofPlates.py)
+&nbsp;|&nbsp;&nbsp;[Three in One](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Stacks%20and%20Queues/ThreeInOne.py)
+

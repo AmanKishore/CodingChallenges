@@ -7,7 +7,7 @@
 &nbsp;|&nbsp;&nbsp;[Single Riffle](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Arrays%20and%20Strings/SingleRiffle.py)
 
 ### [Linked Lists](https://github.com/AmanKishore/CodingChallenges/tree/master/Interview%20Cake/Linked%20Lists)
-&nbsp;&nbsp;&nbsp;&nbsp;[Cycle Beginning](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Linked%20Lists/CycleBeginning.py)
+&nbsp;&nbsp;&nbsp;&nbsp;[Cycle Beginning](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Linked%20Lists/ContainsCycle.py)
 &nbsp;|&nbsp;&nbsp;[Delete Node](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Linked%20Lists/DeleteNode.py)
 &nbsp;|&nbsp;&nbsp;[Find Repeat](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Linked%20Lists/FindRepeat.py)
 &nbsp;|&nbsp;&nbsp;[Kth Last Node](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Linked%20Lists/KthLastNode.py)
@@ -16,12 +16,12 @@
 ### [Stacks and Queues](https://github.com/AmanKishore/CodingChallenges/tree/master/Interview%20Cake/Stacks%20and%20Queues)
 &nbsp;&nbsp;&nbsp;&nbsp;[Bracket Validator](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Stacks%20and%20Queues/BracketValidator.py)
 &nbsp;|&nbsp;&nbsp;[Max Stack](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Stacks%20and%20Queues/MaxStack.py)
-&nbsp;|&nbsp;&nbsp;[Parenthesis Matching](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Stacks%20and%20Queues/ParenthesisMatching.py)
+&nbsp;|&nbsp;&nbsp;[Parenthesis Matching](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Stacks%20and%20Queues/MatchingParenthesis.py)
 &nbsp;|&nbsp;&nbsp;[Queue Two Stacks](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Stacks%20and%20Queues/QueueTwoStacks.py)
 
-### [HashMap](https://github.com/AmanKishore/CodingChallenges/tree/master/Interview%20Cake/HashMap)
-&nbsp;&nbsp;&nbsp;&nbsp;[Permutation Palindrome](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/HashMap/PermutationPalindrome.py)
-&nbsp;|&nbsp;&nbsp;[Two Sum](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/HashMap/TwoSum.py)
+### [HashMap](https://github.com/AmanKishore/CodingChallenges/tree/master/Interview%20Cake/HashMaps)
+&nbsp;&nbsp;&nbsp;&nbsp;[Permutation Palindrome](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/HashMaps/PermutationPalindrome.py)
+&nbsp;|&nbsp;&nbsp;[Two Sum](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/HashMaps/TwoSum.py)
 
 ### [Greedy](https://github.com/AmanKishore/CodingChallenges/tree/master/Interview%20Cake/Greedy)
 &nbsp;&nbsp;&nbsp;&nbsp;[Highest Product of 3](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Greedy/HighestProd3.py)
@@ -55,7 +55,7 @@
 &nbsp;|&nbsp;&nbsp;[Re Roll Dice](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Combinatorics/ReRollDie.py)
 
 
-## Cracking the Coding Interview(https://github.com/AmanKishore/CodingChallenges/tree/master/Cracking%20the%20Coding%20Interview)
+## Cracking the Coding Interview
 
 ### [Arrays and Strings](https://github.com/AmanKishore/CodingChallenges/tree/master/Cracking%20the%20Coding%20Interview/Arrays%20and%20Strings)
 &nbsp;&nbsp;&nbsp;&nbsp;[One Away](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Arrays%20and%20Strings/OneAway.py)
@@ -96,7 +96,7 @@
 &nbsp;|&nbsp;&nbsp;[Find Duplicates](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Sorting%20and%20Searching/FindDuplicates.py)
 &nbsp;|&nbsp;&nbsp;[Group Anagrams](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Sorting%20and%20Searching/GroupAnagrams.py)
 &nbsp;|&nbsp;&nbsp;[Missing Int](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Sorting%20and%20Searching/MissingInt.py)
-&nbsp;|&nbsp;&nbsp;[Peaks and Valleys](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Sorting%20and%20Searching/PeaksValleys.py)
+&nbsp;|&nbsp;&nbsp;[Peaks and Valleys](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Sorting%20and%20Searching/PeaksandValleys.py)
 &nbsp;|&nbsp;&nbsp;[Rank From Stream](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Sorting%20and%20Searching/RankFromStream.py)
 &nbsp;|&nbsp;&nbsp;[Sorted Matrix Search](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Sorting%20and%20Searching/SortedMatrixSearch.py)
 
@@ -109,6 +109,6 @@
 &nbsp;|&nbsp;&nbsp;[Power Set](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Recursion%20and%20Dynamic%20Programming/PowerSet.py)
 &nbsp;|&nbsp;&nbsp;[Recursively Multiply](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Recursion%20and%20Dynamic%20Programming/RecursivelyMultiply.py)
 &nbsp;|&nbsp;&nbsp;[Robot Grid](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Recursion%20and%20Dynamic%20Programming/RobotGrid.py)
-&nbsp;|&nbsp;&nbsp;[Stack of Boxes](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Recursion%20and%20Dynamic%20Programming/StackBoxes.py)
+&nbsp;|&nbsp;&nbsp;[Stack of Boxes](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Recursion%20and%20Dynamic%20Programming/StackofBoxes.py)
 &nbsp;|&nbsp;&nbsp;[Towers of Hanoi](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Recursion%20and%20Dynamic%20Programming/TowersOfHanoi.py)
 &nbsp;|&nbsp;&nbsp;[Triple Step](https://github.com/AmanKishore/CodingChallenges/blob/master/Cracking%20the%20Coding%20Interview/Recursion%20and%20Dynamic%20Programming/TripleStep.py)

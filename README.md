@@ -50,7 +50,7 @@
 &nbsp;|&nbsp;&nbsp;[Unbounded Knapsack](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Recursion%20and%20Dynamic%20Programming/UnboundedKnapsack.py)
 
 ### [Combinatorics](https://github.com/AmanKishore/CodingChallenges/tree/master/Interview%20Cake/Combinatorics)
-&nbsp;&nbsp;&nbsp;&nbsp;[Appears Twice](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Combinatorics/AppearsTwice.py)
+&nbsp;&nbsp;&nbsp;&nbsp;[Appears Twice](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Combinatorics/WhichAppearsTwice.py)
 &nbsp;|&nbsp;&nbsp;[Binary Search](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Combinatorics/BinarySearch.py)
 &nbsp;|&nbsp;&nbsp;[Re Roll Dice](https://github.com/AmanKishore/CodingChallenges/blob/master/Interview%20Cake/Combinatorics/ReRollDie.py)
 
